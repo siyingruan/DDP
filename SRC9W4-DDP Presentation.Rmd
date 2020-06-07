@@ -1,7 +1,7 @@
 ---
 title: "Data Product Development - Linear Regression and Prediction"
 author: "Siying R"
-date: "May 10, 2020"
+date: "June 7, 2020"
 output: ioslides_presentation
 ---
 
