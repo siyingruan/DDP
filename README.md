@@ -10,3 +10,12 @@ The application allows the users to select 2 to 3 variables (name as **Y**, **X*
 The web application can be accessed here: *<https://sruan.shinyapps.io/C9W4/>*. There are 6 plots on the mail panel. It may take a while for to load.
 
 The data used is the **state.x77** in the **R Datasets Package** named *datasets*.
+
+## Original R Code File
+
+### ShinyWebApp
+ui.R
+server.R
+### Presentation in 
+SRC9W4-DDP Presentation.Rmd
+
